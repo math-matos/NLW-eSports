@@ -8,9 +8,7 @@
 
 <img src="unknown.png" alt="exemplo imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
+> Projeto da NEXT LEVEL WEEK, onde fizemos uma aplicacao de uma mini land page.
 
 ## 📫 Contribuindo para NLW-eSports
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
